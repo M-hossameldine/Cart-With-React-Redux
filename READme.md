@@ -27,11 +27,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ReactJs](https://reactjs.org/) - Web Framework
 - [Redux](https://redux.js.org/) - State Management Library
 - [Redux-Toolkit](https://redux-toolkit.js.org/) - Efficient Redux development Toolset
-- [Firebase] - Google-Backed application development software (Used to Build Database)
+- [Firebase](https://firebase.google.com/) - Google-Backed application development software (Used to Build Database)
 
 ## TODO
-
----
 
 - [ ] Implement more-friendly Notification component.
 
