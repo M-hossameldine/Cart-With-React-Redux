@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
 - [Live Demo](#live_demo)
+- [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [TODO](#todo)
 - [Acknowledgements](#acknowledgement)
