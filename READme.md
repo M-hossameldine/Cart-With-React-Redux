@@ -19,7 +19,7 @@ There are Two Approaches to execute side-effects and async tasks when dispatchin
 
 - Inside the action creators (**_main_** branch);
 
-# [Live Demo] <a name="live_demo"></a>
+## Live Demo <a name="live_demo"></a>
 
 [Cart-With-Redux.Web.app](https://cart-with-redux.web.app/)
 
